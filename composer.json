@@ -17,6 +17,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=8.0.0",
-        "booosta/authenticator": "dev-master"
+        "booosta/authenticator": "^4.0"
     }
 }
